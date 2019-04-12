@@ -25,12 +25,12 @@ boolean of whether or not that integer is a prime number.
 
 ## Use Iteration and Looping
 
-Think about what defines an integer as a prime number. Research algorithms for
-how to determine if a number is prime. Use a range of numbers in an array and
-iterate through it.
+Think about what defines an integer as a prime number. Research algorithms to
+find out how to determine if a number is prime. Use a range of numbers in an array
+and iterate through it.
 
-You can look into Benchmarking in Ruby and profile a few different approaches to
-implementing `prime ()`.
+You can look into [benchmarking in Ruby](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
+and profile a few different approaches to implementing `prime ()`.
 
 ## Conclusion
 
