@@ -21,7 +21,7 @@ you.
 ## Define Methods and Controlling Return Values
 
 Define a method, `prime?()`, that takes in an integer argument and returns a
-boolean of whether or not that integer is a prime number.
+Boolean of whether or not that integer is a prime number.
 
 ## Use Iteration and Looping
 
